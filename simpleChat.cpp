@@ -44,7 +44,7 @@ ChatApplication::ChatApplication(const WEnvironment& env,
     server_(server),
     env_(env)
 {
-  setTitle("Wt Chat");
+  setTitle("C++ Web Messenger");
   useStyleSheet("chatapp.css");
 
   messageResourceBundle().use(appRoot() + "simplechat");
