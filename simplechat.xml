@@ -2,11 +2,11 @@
 <messages>
   <message id="introduction">
 
-<h2><span>WebC-Chat</span></h2>
+<h2><span>C++ Web Messenger</span></h2>
 
 <p><h1>Welcome! GNDEC</h1></p>
 
-<p>WebC-Chat supports multiple users at a time, it perfectly in sync.</p>
+<p>C++ Web Messenger supports multiple users at a time, its perfectly in sync.</p>
 
 <p>Just open up any number of new window with same address to see it in working.</p>
   </message>
